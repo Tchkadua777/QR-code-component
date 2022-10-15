@@ -1,1 +1,1 @@
-# qrprojec.io
+# QR code component
